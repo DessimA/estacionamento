@@ -4,9 +4,13 @@ Bem-vindo ao Sistema de Estacionamento Console! Este projeto em C# é um simples
 
 ## Funcionalidades
 :one: Cadastrar Veículo: Permite ao usuário cadastrar um veículo informando sua placa.
+
 :two: Remover Veículo: Remove um veículo previamente cadastrado e calcula o valor do estacionamento com base no tempo que o veículo permaneceu estacionado.
+
 :three: Listar Veículos: Exibe a lista de veículos atualmente estacionados.
+
 :four: Encerrar Programa: Finaliza a execução do programa.
+
 Configuração e Execução
 
 ##Pré-requisitos
