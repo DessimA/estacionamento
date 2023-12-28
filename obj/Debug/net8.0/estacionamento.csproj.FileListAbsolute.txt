@@ -1,0 +1,14 @@
+D:\Github\estacionamento\obj\Debug\net8.0\estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\estacionamento\obj\Debug\net8.0\estacionamento.AssemblyInfoInputs.cache
+D:\Github\estacionamento\obj\Debug\net8.0\estacionamento.AssemblyInfo.cs
+D:\Github\estacionamento\obj\Debug\net8.0\estacionamento.csproj.CoreCompileInputs.cache
+D:\Github\estacionamento\bin\Debug\net8.0\estacionamento.exe
+D:\Github\estacionamento\bin\Debug\net8.0\estacionamento.deps.json
+D:\Github\estacionamento\bin\Debug\net8.0\estacionamento.runtimeconfig.json
+D:\Github\estacionamento\bin\Debug\net8.0\estacionamento.dll
+D:\Github\estacionamento\bin\Debug\net8.0\estacionamento.pdb
+D:\Github\estacionamento\obj\Debug\net8.0\estacionamento.dll
+D:\Github\estacionamento\obj\Debug\net8.0\refint\estacionamento.dll
+D:\Github\estacionamento\obj\Debug\net8.0\estacionamento.pdb
+D:\Github\estacionamento\obj\Debug\net8.0\estacionamento.genruntimeconfig.cache
+D:\Github\estacionamento\obj\Debug\net8.0\ref\estacionamento.dll
